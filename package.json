@@ -1,0 +1,9 @@
+{
+  "name": "jpa-vidyalaya-website",
+  "version": "1.0.0",
+  "description": "Website and admin panel for JPA Vidyalaya Matric School (zero dependencies)",
+  "private": true,
+  "main": "server.js",
+  "scripts": { "start": "node --disable-warning=ExperimentalWarning server.js" },
+  "engines": { "node": ">=22.13" }
+}
